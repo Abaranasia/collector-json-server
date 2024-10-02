@@ -1,0 +1,40 @@
+{
+    "collections": [
+    {
+        "id": 1,
+        "name": "Mistborn series 1",
+        "author": "Brandon Sanderson",
+        "category": "book"
+      },
+      {
+        "id": 2,
+        "name": "Stormlight Archive",
+        "author": "Brandon Sanderson",
+        "category": "book"
+      },
+      {
+        "id": 3,
+        "name": "Skyward",
+        "author": "Brandon Sanderson",
+        "category": "book"
+      }
+    ],
+    "items": [
+        {
+            "title": "The Final Empire",
+            "subtitle": "Mistborn Saga",
+            "length": "688",
+            "creationDate": 2006,
+            "collection": "Mistborn series",
+            "collected": true
+        },
+        {
+            "title": "The Well of Ascension",
+            "subtitle": "Mistborn Saga",
+            "length": "781",
+            "creationDate": 2007,
+            "collection": "Mistborn series",
+            "collected": true
+        }
+    ]
+}
